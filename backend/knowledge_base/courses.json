@@ -1,0 +1,396 @@
+[
+  {
+    "title": "Python for Everybody",
+    "url": "https://www.coursera.org/specializations/python",
+    "platform": "Coursera",
+    "skill": "Python",
+    "description": "Learn Python programming from scratch. Covers data structures, web scraping, databases."
+  },
+  {
+    "title": "Machine Learning Specialization",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "platform": "Coursera",
+    "skill": "Machine Learning",
+    "description": "Andrew Ng's ML course. Covers supervised learning, neural networks, decision trees."
+  },
+  {
+    "title": "SQL for Data Science",
+    "url": "https://www.coursera.org/learn/sql-for-data-science",
+    "platform": "Coursera",
+    "skill": "SQL",
+    "description": "Learn SQL fundamentals for data analysis and data science roles."
+  },
+  {
+    "title": "Docker for Beginners",
+    "url": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+    "platform": "YouTube",
+    "skill": "Docker",
+    "description": "Full Docker course covering containers, images, and deployment."
+  },
+
+
+  {
+    "title": "Python Crash Course (Full Course)",
+    "url": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+    "platform": "YouTube",
+    "skill": "Python",
+    "description": "freeCodeCamp's beginner Python course covering variables, loops, functions, and OOP."
+  },
+  {
+    "title": "Python Intermediate Tutorial",
+    "url": "https://www.youtube.com/watch?v=HGOBQPFzWKo",
+    "platform": "YouTube",
+    "skill": "Python",
+    "description": "Covers decorators, generators, threading, multiprocessing, and context managers."
+  },
+  {
+    "title": "Python for Data Science",
+    "url": "https://www.kaggle.com/learn/python",
+    "platform": "Kaggle",
+    "skill": "Python",
+    "description": "Kaggle's hands-on Python micro-course covering syntax, functions, lists, and loops for data science."
+  },
+  {
+    "title": "Google IT Automation with Python",
+    "url": "https://www.coursera.org/professional-certificates/google-it-automation",
+    "platform": "Coursera",
+    "skill": "Python",
+    "description": "Google-backed course on Python scripting, Git, and IT automation across 6 courses."
+  },
+
+
+  {
+    "title": "R Programming Full Course",
+    "url": "https://www.youtube.com/watch?v=_V8eKsto3Ug",
+    "platform": "YouTube",
+    "skill": "R",
+    "description": "freeCodeCamp's complete R programming course covering data types, ggplot2, and statistical analysis."
+  },
+  {
+    "title": "R for Data Science",
+    "url": "https://www.coursera.org/specializations/data-science-foundations-r",
+    "platform": "Coursera",
+    "skill": "R",
+    "description": "Johns Hopkins specialization covering R basics, data visualization, and reproducible research."
+  },
+  {
+    "title": "Statistics with R Specialization",
+    "url": "https://www.coursera.org/specializations/statistics",
+    "platform": "Coursera",
+    "skill": "R",
+    "description": "Duke University course on probability, inference, linear regression, and Bayesian statistics using R."
+  },
+
+ 
+  {
+    "title": "Intro to SQL",
+    "url": "https://www.kaggle.com/learn/intro-to-sql",
+    "platform": "Kaggle",
+    "skill": "SQL",
+    "description": "Kaggle micro-course on SQL basics using Google BigQuery — SELECT, WHERE, GROUP BY, and JOINs."
+  },
+  {
+    "title": "Advanced SQL",
+    "url": "https://www.kaggle.com/learn/advanced-sql",
+    "platform": "Kaggle",
+    "skill": "SQL",
+    "description": "Advanced SQL techniques including CTEs, window functions, nested queries, and optimisation in BigQuery."
+  },
+  {
+    "title": "SQL Full Course",
+    "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "platform": "YouTube",
+    "skill": "SQL",
+    "description": "freeCodeCamp's 4-hour SQL tutorial covering database design, queries, joins, and stored procedures."
+  },
+  {
+    "title": "Databases and SQL for Data Science with Python",
+    "url": "https://www.coursera.org/learn/sql-data-science",
+    "platform": "Coursera",
+    "skill": "SQL",
+    "description": "IBM course on SQL fundamentals, relational databases, and querying using Python and Jupyter Notebooks."
+  },
+
+
+  {
+    "title": "HTML, CSS, and JavaScript Full Course",
+    "url": "https://www.youtube.com/watch?v=mU6anWqZJcc",
+    "platform": "YouTube",
+    "skill": "Web Development",
+    "description": "Full web development course from scratch covering HTML structure, CSS styling, and JavaScript interactivity."
+  },
+  {
+    "title": "React Full Course",
+    "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+    "platform": "YouTube",
+    "skill": "Web Development",
+    "description": "freeCodeCamp's complete React course covering components, state, hooks, and routing."
+  },
+  {
+    "title": "Full-Stack Web Development with React Specialization",
+    "url": "https://www.coursera.org/specializations/full-stack-react",
+    "platform": "Coursera",
+    "skill": "Web Development",
+    "description": "Hong Kong University of Science and Technology specialization covering React, Node.js, and MongoDB."
+  },
+  {
+    "title": "Django Full Stack Web Development",
+    "url": "https://www.youtube.com/watch?v=o0XbHvKxw7Y",
+    "platform": "YouTube",
+    "skill": "Web Development",
+    "description": "Build full-stack Python web apps using Django, covering models, views, templates, and authentication."
+  },
+
+
+  {
+    "title": "Data Analysis with Python",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "platform": "Kaggle",
+    "skill": "Data Science",
+    "description": "Kaggle micro-course on Pandas for data manipulation, filtering, grouping, and merging datasets."
+  },
+  {
+    "title": "Data Visualization",
+    "url": "https://www.kaggle.com/learn/data-visualization",
+    "platform": "Kaggle",
+    "skill": "Data Science",
+    "description": "Kaggle course covering Seaborn and Matplotlib for creating insightful charts and visualisations."
+  },
+  {
+    "title": "Data Cleaning",
+    "url": "https://www.kaggle.com/learn/data-cleaning",
+    "platform": "Kaggle",
+    "skill": "Data Science",
+    "description": "Handle missing values, inconsistent data types, data leakage, and messy real-world datasets."
+  },
+  {
+    "title": "IBM Data Science Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "platform": "Coursera",
+    "skill": "Data Science",
+    "description": "10-course IBM certificate covering Python, SQL, data visualisation, ML, and a capstone project."
+  },
+  {
+    "title": "Data Science Full Course",
+    "url": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+    "platform": "YouTube",
+    "skill": "Data Science",
+    "description": "freeCodeCamp's data science course covering NumPy, Pandas, Matplotlib, and Scikit-learn."
+  },
+  {
+    "title": "Applied Data Science with Python Specialization",
+    "url": "https://www.coursera.org/specializations/data-science-python",
+    "platform": "Coursera",
+    "skill": "Data Science",
+    "description": "University of Michigan 5-course series covering data manipulation, visualisation, machine learning, and text mining."
+  },
+
+
+
+  {
+    "title": "IBM DevOps and Software Engineering Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/devops-and-software-engineering",
+    "platform": "Coursera",
+    "skill": "DevOps",
+    "description": "IBM's 14-course program covering CI/CD, Docker, Kubernetes, Agile, and cloud-native development."
+  },
+  {
+    "title": "Kubernetes Full Course",
+    "url": "https://www.youtube.com/watch?v=X48VuDVv0do",
+    "platform": "YouTube",
+    "skill": "DevOps",
+    "description": "Complete Kubernetes tutorial covering pods, services, deployments, ConfigMaps, and Helm charts."
+  },
+  {
+    "title": "DevOps Bootcamp — Terraform, Docker, Kubernetes, CI/CD",
+    "url": "https://www.youtube.com/watch?v=7XDeI5fyj3E",
+    "platform": "YouTube",
+    "skill": "DevOps",
+    "description": "End-to-end DevOps course covering infrastructure as code, containers, orchestration, and pipelines."
+  },
+  {
+    "title": "Git and GitHub Full Course",
+    "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+    "platform": "YouTube",
+    "skill": "DevOps",
+    "description": "freeCodeCamp's Git and GitHub course covering version control, branching, merging, and pull requests."
+  },
+
+
+  {
+    "title": "Cloud Computing Fundamentals",
+    "url": "https://www.coursera.org/specializations/cloud-computing",
+    "platform": "Coursera",
+    "skill": "Cloud",
+    "description": "University of Illinois course on cloud architecture, distributed systems, key-value stores, and NoSQL."
+  },
+  {
+    "title": "Google Cloud Digital Leader Training",
+    "url": "https://www.coursera.org/professional-certificates/google-cloud-digital-leader-training",
+    "platform": "Coursera",
+    "skill": "Cloud",
+    "description": "Google's cloud fundamentals certificate covering core products, AI, and cloud infrastructure concepts."
+  },
+
+  {
+    "title": "AWS Cloud Practitioner Essentials",
+    "url": "https://www.coursera.org/learn/aws-cloud-practitioner-essentials",
+    "platform": "Coursera",
+    "skill": "AWS",
+    "description": "Official Amazon course covering core AWS services, security, architecture, pricing, and support."
+  },
+  {
+    "title": "AWS Certified Solutions Architect Full Course",
+    "url": "https://www.youtube.com/watch?v=Ia-UEYYR44s",
+    "platform": "YouTube",
+    "skill": "AWS",
+    "description": "freeCodeCamp's full AWS Solutions Architect course covering EC2, S3, RDS, VPC, and IAM."
+  },
+  {
+    "title": "AWS Fundamentals Specialization",
+    "url": "https://www.coursera.org/specializations/aws-fundamentals",
+    "platform": "Coursera",
+    "skill": "AWS",
+    "description": "4-course AWS specialization by Amazon covering core services, security, migration, and serverless design."
+  },
+  {
+    "title": "AWS for Beginners",
+    "url": "https://www.youtube.com/watch?v=k1RI5locZE4",
+    "platform": "YouTube",
+    "skill": "AWS",
+    "description": "Hands-on beginner AWS course covering the console, EC2, S3, Lambda, and RDS."
+  },
+
+
+  {
+    "title": "Microsoft Azure Fundamentals (AZ-900) Full Course",
+    "url": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+    "platform": "YouTube",
+    "skill": "Azure",
+    "description": "Complete AZ-900 exam prep course covering Azure compute, storage, networking, and security."
+  },
+  {
+    "title": "Preparing for the AZ-900: Microsoft Azure Fundamentals",
+    "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900",
+    "platform": "Coursera",
+    "skill": "Azure",
+    "description": "Microsoft-backed 4-course specialization preparing for the AZ-900 certification exam."
+  },
+  {
+    "title": "Microsoft Azure Data Scientist Associate (DP-100)",
+    "url": "https://www.coursera.org/professional-certificates/azure-data-scientist",
+    "platform": "Coursera",
+    "skill": "Azure",
+    "description": "Microsoft's professional certificate for building and deploying ML models using Azure Machine Learning."
+  },
+  {
+    "title": "Azure DevOps for Beginners",
+    "url": "https://www.youtube.com/watch?v=DoWhZO7nbCY",
+    "platform": "YouTube",
+    "skill": "Azure",
+    "description": "Introduction to Azure DevOps covering pipelines, repos, boards, and CI/CD workflows."
+  },
+
+
+  {
+    "title": "Mastering Azure Databricks for Data Engineers",
+    "url": "https://www.coursera.org/specializations/packt-mastering-azure-databricks-for-data-engineers",
+    "platform": "Coursera",
+    "skill": "Databricks",
+    "description": "Packt specialization covering Delta Tables, Delta Live Tables, Unity Catalog, and CI/CD pipelines in Azure Databricks."
+  },
+  {
+    "title": "Perform Data Science with Azure Databricks",
+    "url": "https://www.coursera.org/learn/perform-data-science-with-azure-databricks",
+    "platform": "Coursera",
+    "skill": "Databricks",
+    "description": "Microsoft course on Apache Spark and Azure Databricks for data science workloads, DataFrames, and ML pipelines."
+  },
+  {
+    "title": "Azure Databricks Full Course",
+    "url": "https://www.youtube.com/watch?v=8I5PBXbFBLk",
+    "platform": "YouTube",
+    "skill": "Databricks",
+    "description": "End-to-end Azure Databricks tutorial covering clusters, notebooks, PySpark, and Delta Lake."
+  },
+
+
+  {
+    "title": "Intro to Machine Learning",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "platform": "Kaggle",
+    "skill": "Machine Learning",
+    "description": "Kaggle's beginner ML course covering decision trees, model validation, and Scikit-learn fundamentals."
+  },
+  {
+    "title": "Intermediate Machine Learning",
+    "url": "https://www.kaggle.com/learn/intermediate-machine-learning",
+    "platform": "Kaggle",
+    "skill": "Machine Learning",
+    "description": "Handle missing values, categorical encoding, pipelines, cross-validation, XGBoost, and data leakage."
+  },
+  {
+    "title": "Feature Engineering",
+    "url": "https://www.kaggle.com/learn/feature-engineering",
+    "platform": "Kaggle",
+    "skill": "Machine Learning",
+    "description": "Learn mutual information, k-means clustering, PCA, and target encoding to build better ML features."
+  },
+  {
+    "title": "Deep Learning with PyTorch Full Course",
+    "url": "https://www.youtube.com/watch?v=V_xro1bcAuA",
+    "platform": "YouTube",
+    "skill": "Machine Learning",
+    "description": "freeCodeCamp's complete PyTorch course covering tensors, neural networks, CNNs, and model training."
+  },
+  {
+    "title": "Deep Learning Specialization",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "platform": "Coursera",
+    "skill": "Machine Learning",
+    "description": "Andrew Ng's 5-course deep learning specialization covering neural networks, CNNs, RNNs, and sequence models."
+  },
+
+  {
+    "title": "AI For Everyone",
+    "url": "https://www.coursera.org/learn/ai-for-everyone",
+    "platform": "Coursera",
+    "skill": "AI",
+    "description": "Andrew Ng's non-technical AI course explaining AI strategy, workflow, and societal impact for all roles."
+  },
+  {
+    "title": "Intro to AI Ethics",
+    "url": "https://www.kaggle.com/learn/intro-to-ai-ethics",
+    "platform": "Kaggle",
+    "skill": "AI",
+    "description": "Kaggle course exploring fairness, model cards, explainability, and ethical frameworks for AI systems."
+  },
+  {
+    "title": "Intro to Deep Learning",
+    "url": "https://www.kaggle.com/learn/intro-to-deep-learning",
+    "platform": "Kaggle",
+    "skill": "AI",
+    "description": "Use TensorFlow and Keras to build and train neural networks for structured data classification and regression."
+  },
+  {
+    "title": "Generative AI for Beginners (Microsoft)",
+    "url": "https://www.youtube.com/watch?v=vGQPzprmjes",
+    "platform": "YouTube",
+    "skill": "AI",
+    "description": "Microsoft's 18-lesson generative AI course covering LLMs, prompt engineering, RAG, and fine-tuning."
+  },
+  {
+    "title": "5-Day Generative AI Intensive with Google",
+    "url": "https://www.kaggle.com/learn-guide/5-day-genai",
+    "platform": "Kaggle",
+    "skill": "AI",
+    "description": "Google and Kaggle's GenAI intensive covering LLM foundations, embeddings, AI agents, and MLOps via hands-on code labs."
+  },
+  {
+    "title": "IBM AI Engineering Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/ai-engineer",
+    "platform": "Coursera",
+    "skill": "AI",
+    "description": "IBM's 6-course certificate covering ML, deep learning, neural networks, and deploying AI models at scale."
+  }
+]
